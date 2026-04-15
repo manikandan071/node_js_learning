@@ -1,3 +1,5 @@
+// this server.js only for my purpose,
+
 const express = require("express");
 const jwt = require("jsonwebtoken");
 const cors = require("cors");
