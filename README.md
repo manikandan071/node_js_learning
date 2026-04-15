@@ -1,6 +1,6 @@
 1.http://localhost:5001 this server only for user module
 
-    path : D:\Team vinoth\NodeJs\userService
+    path : D:\Team vinoth\NodeJs\userService\server.js
 
     1. Login with otp
     2. Generate access token
@@ -8,7 +8,8 @@
     4. User Add, Update and Delete function's
 
 2.http://localhost:5002 this server only for task module
-path : D:\Team vinoth\NodeJs\taskService
+
+    path : D:\Team vinoth\NodeJs\taskService\server.js
 
     1. Generate access token
     2. verify token
